@@ -1,3 +1,2 @@
-/vendor/
-/components/
-/node_modules/
+/src/public/vendor/
+/src/public/components/
